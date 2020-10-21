@@ -4,8 +4,8 @@
 
 - 🌱 Here some of my demo projects:
 -  First wonderful demo [link1]
--  Second wonderful demo [demo2]
--  Third wonderful demo [demo3]
+-  Second wonderful demo [link2]
+-  Third wonderful demo [link3]
 -  I like to work with another programmers
 
 <details>
