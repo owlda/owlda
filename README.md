@@ -1,12 +1,12 @@
-### GitHub profile for owlda [website] ⚡
+### GitHub profile for owlda [website] 🦉
 
 ## Hi there,
 
-- 🌱 Here some of my demo projects:
--  First wonderful demo [link1]
--  Second wonderful demo [link2]
--  Third wonderful demo [link3]
--  I like to collaborate with another programmers
+- Here some of my demo projects:
+- ⚡ First wonderful demo [link1]
+- ⚡ Second wonderful demo [link2]
+- ⚡ Third wonderful demo [link3]
+- 🌱 I like to collaborate with another programmers
 
 <details>
   <summary>:zap: My GitHub Stats</summary>  
