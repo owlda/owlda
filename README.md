@@ -1,6 +1,6 @@
 ### GitHub profile for owlda [website] ⚡
 
-## Hi there, I'm fulltime .NET, NodeJS developer
+## Hi there,
 
 - 🌱 Here some of my demo projects:
 -  First wonderful demo [link1]
