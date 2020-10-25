@@ -3,9 +3,9 @@
 ## Hi there,
 
 - Here some of my demo projects:
-- ⚡ First wonderful demo [link1]
-- ⚡ Second wonderful demo [link2]
-- ⚡ Third wonderful demo [link3]
+- ⚡ First demo [link1]
+- ⚡ Second demo [link2]
+- ⚡ Third demo [link3]
 - 🌱 I like to collaborate with another programmers
 
 <details>
